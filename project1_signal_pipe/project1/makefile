@@ -1,0 +1,18 @@
+G = gcc -g
+O = -o
+LIBS = -lglut -lGLU -lGL -lm 
+names = main openGL
+round=roundsNumber.txt
+time=GameTime.txt
+range=Ranges.txt
+
+run:
+	$(G) test.c openGL.c  fifoiat.c $(O) main $(LIBS)
+	#$(G) openGL.c $(O) openGL $(LIBS)
+	./main $(round) $(time) $(range)
+
+	
+clean:
+	rm A12 B12 A23 B23 A34 B34 A45 B45 leader-A-To-leader-B To_team_leader_B To_team_leader_A A-leader-1  B-leader-1 A-leader-5 B-leader-5 leader-B-To-leader-A
+	rm A12G B12G A23G B23G A34G B34G A45G B45G leader-A-To-leader-BG To_team_leader_BG To_team_leader_AG A-leader-1G  B-leader-1G A-leader-5G B-leader-5G leader-B-To-leader-AG
+	
