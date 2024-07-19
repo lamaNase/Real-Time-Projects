@@ -1,0 +1,56 @@
+MPLINK 4.41, Linker
+Linker Map File - Created Sun Jul 07 01:38:31 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000132
+      .config_2007_MAIN.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000098      
+                            0x002007    0x002007      
+            154 out of 8454 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    clear   0x000095    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            displayBlinks   0x00004a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                     inid   0x00002f    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                     loop   0x00000e    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    loop1   0x000011    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                    loopX   0x000016    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+               loop_blink   0x00004c    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    onems   0x00000f    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                   pulseE   0x00001a    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                     send   0x00001f    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                    start   0x000008    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                      xms   0x000015    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x000008    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                     loop   0x00000e    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    onems   0x00000f    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                    loop1   0x000011    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                      xms   0x000015    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                    loopX   0x000016    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                   pulseE   0x00001a    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                     send   0x00001f    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                     inid   0x00002f    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+            displayBlinks   0x00004a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               loop_blink   0x00004c    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    clear   0x000095    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+
+

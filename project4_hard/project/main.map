@@ -1,0 +1,156 @@
+MPLINK 4.41, Linker
+Linker Map File - Created Wed Jul 10 18:00:04 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00062c
+      .config_2007_MAIN.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000315      
+                            0x002007    0x002007      
+            791 out of 8454 program addresses used, program memory utilization is 9%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+           DIV_LOOP_HUNDS   0x0001f5    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            DIV_LOOP_ONES   0x0001c3    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            DIV_LOOP_TENS   0x0001d9    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          Delay_10us_loop   0x0001bc    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                check_400   0x000252    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+             check_fourth   0x00028b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            check_highest   0x000258    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+             check_second   0x00026d    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+              check_third   0x00027e    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+        check_valid_range   0x00024d    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    clear   0x0001b2    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                 continue   0x0001df    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               delay_10us   0x0001bb    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                delay_2us   0x0001b8    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            displayBlinks   0x000136    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                     inid   0x00011b    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                     loop   0x000030    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    loop1   0x0000fd    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                    loopX   0x000102    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+               loop_blink   0x00013a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+      more_than_16_shifts   0x00020b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                 mul_1114   0x00021b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    onems   0x0000fb    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+       print_dist_highest   0x0001c0    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          print_distances   0x000294    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+              print_hunds   0x0001f3    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num1_sensor1   0x0002a5    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num2_sensor2   0x0002bd    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num3_sensor3   0x0002db    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num4_sensor4   0x0002f6    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               print_ones   0x0001c3    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+              print_reset   0x000183    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               print_tens   0x0001d7    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               print_zero   0x0001ef    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                   pulseE   0x000106    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+               read_echo1   0x00005b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_echo2   0x000090    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_echo3   0x0000c5    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_loop1   0x000063    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_loop2   0x00009a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_loop3   0x0000cf    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return1   0x000298    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return2   0x00029c    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return3   0x0002a0    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return4   0x0002a4    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                     send   0x00010b    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+          shift_left_loop   0x000216    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+         shift_left_nbits   0x000212    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+         shift_right_loop   0x000206    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+shift_right_loop_after_16   0x00020e    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+        shift_right_nbits   0x000202    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    start   0x000023    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               stop_hunds   0x0001fd    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                stop_ones   0x0001d2    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                stop_tens   0x0001e9    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          wait_echo_high1   0x00006a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          wait_echo_high2   0x0000a1    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          wait_echo_high3   0x0000d6    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+           wait_echo_low1   0x000073    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+           wait_echo_low2   0x0000aa    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+           wait_echo_low3   0x0000df    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                      xms   0x000101    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x000023    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                     loop   0x000030    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_echo1   0x00005b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_loop1   0x000063    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          wait_echo_high1   0x00006a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+           wait_echo_low1   0x000073    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_echo2   0x000090    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_loop2   0x00009a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          wait_echo_high2   0x0000a1    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+           wait_echo_low2   0x0000aa    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_echo3   0x0000c5    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               read_loop3   0x0000cf    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          wait_echo_high3   0x0000d6    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+           wait_echo_low3   0x0000df    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    onems   0x0000fb    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                    loop1   0x0000fd    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                      xms   0x000101    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                    loopX   0x000102    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                   pulseE   0x000106    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                     send   0x00010b    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+                     inid   0x00011b    program     static C:\Users\Dell\Desktop\Real Time\project\LCDIS.INC
+            displayBlinks   0x000136    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               loop_blink   0x00013a    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+              print_reset   0x000183    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                    clear   0x0001b2    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                delay_2us   0x0001b8    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               delay_10us   0x0001bb    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          Delay_10us_loop   0x0001bc    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_dist_highest   0x0001c0    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            DIV_LOOP_ONES   0x0001c3    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               print_ones   0x0001c3    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                stop_ones   0x0001d2    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               print_tens   0x0001d7    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            DIV_LOOP_TENS   0x0001d9    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                 continue   0x0001df    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                stop_tens   0x0001e9    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               print_zero   0x0001ef    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+              print_hunds   0x0001f3    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+           DIV_LOOP_HUNDS   0x0001f5    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+               stop_hunds   0x0001fd    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+        shift_right_nbits   0x000202    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+         shift_right_loop   0x000206    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+      more_than_16_shifts   0x00020b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+shift_right_loop_after_16   0x00020e    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+         shift_left_nbits   0x000212    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          shift_left_loop   0x000216    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                 mul_1114   0x00021b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+        check_valid_range   0x00024d    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                check_400   0x000252    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+            check_highest   0x000258    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+             check_second   0x00026d    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+              check_third   0x00027e    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+             check_fourth   0x00028b    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+          print_distances   0x000294    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return1   0x000298    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return2   0x00029c    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return3   0x0002a0    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+                  return4   0x0002a4    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num1_sensor1   0x0002a5    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num2_sensor2   0x0002bd    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num3_sensor3   0x0002db    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+       print_num4_sensor4   0x0002f6    program     static C:\Users\Dell\Desktop\Real Time\project\main.asm
+
+

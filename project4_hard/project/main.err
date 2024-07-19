@@ -1,0 +1,40 @@
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 48 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 54 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 55 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 56 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 57 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 58 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 63 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 64 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[211] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 99 : Extraneous arguments on the line.
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 116 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 161 : Argument out of range.  Least significant bits used.
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 222 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 225 : Using default destination of 1 (file).
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 231 : Argument out of range.  Least significant bits used.
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 293 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 296 : Using default destination of 1 (file).
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 302 : Argument out of range.  Least significant bits used.
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 364 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 367 : Using default destination of 1 (file).
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 373 : Argument out of range.  Least significant bits used.
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\LCDIS.INC 27 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\LCDIS.INC 37 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\LCDIS.INC 62 : Using default destination of 1 (file).
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 481 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 540 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 546 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 553 : Argument out of range.  Least significant bits used.
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 621 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 628 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 657 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 715 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 731 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 741 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 751 : Using default destination of 1 (file).
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 771 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 1082 : Argument out of range.  Least significant bits used.

@@ -1,0 +1,7 @@
+Message[302] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[211] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 55 : Extraneous arguments on the line.
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\LCDIS.INC 27 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\LCDIS.INC 37 : Using default destination of 1 (file).
+Message[305] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\LCDIS.INC 62 : Using default destination of 1 (file).
+Warning[207] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 71 : Found label after column 1. (loop_blink)
+Warning[202] C:\USERS\DELL\DESKTOP\REAL TIME\PROJECT\MAIN.ASM 163 : Argument out of range.  Least significant bits used.
